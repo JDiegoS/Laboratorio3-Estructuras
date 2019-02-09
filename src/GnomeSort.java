@@ -1,3 +1,5 @@
+//Juan Diego Solorzano 18151
+
 //Extraido de https://www.geeksforgeeks.org/gnome-sort-a-stupid-one/
 import java.util.Random; 
 public class GnomeSort { 
