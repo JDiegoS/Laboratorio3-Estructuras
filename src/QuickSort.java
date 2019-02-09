@@ -1,3 +1,5 @@
+//Juan Diego Solorzano 18151
+
 import java.util.Random;
 
 public class QuickSort {
